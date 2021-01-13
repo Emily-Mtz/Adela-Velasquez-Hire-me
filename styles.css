@@ -1,0 +1,32 @@
+h1 {
+    color: #E60002;
+    font-family: 'Roboto Mono', monospace;
+}
+h2 {
+    color:#7FF5FF;
+    font-family: 'Ubuntu', sans-serif;
+}
+h4 {
+    color:#FFFE33;
+    font-family: 'Open Sans', sans-serif;
+}
+h4:hover {
+    background:#F2C7CC;
+}
+li {
+    color:#02FF02;
+    font-family: 'Nunito', sans-serif;
+}
+img {
+    width: 175px;
+    border:5px dotted #F5D4F5;
+}
+.movie {
+     border:5px dotted #e0efff;
+}
+body {
+    background:url("https://static-cse.canva.com/blob/141008/30-examples-of-pastel-colors-featured-image.jpg");
+}
+.Hire {
+    border:5px dotted #e0fff0;
+}
